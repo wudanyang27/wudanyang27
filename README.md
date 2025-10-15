@@ -12,7 +12,7 @@ I’m **Wu Danyang** – a Software Engineer focused on backend development.
 - Exploring more robust patterns in Go and Python ecosystems.
 
 ## 🌐 Website
-Check out my grove of ideas: https://grove-trees.netlify.app/
+Check out my grove of ideas: https://fulu.press/
 
 ## 🎯 Fun
 - Ping pong 🏓
